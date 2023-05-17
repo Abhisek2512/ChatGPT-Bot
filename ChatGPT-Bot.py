@@ -7,7 +7,7 @@ import wikipedia
 import pyjokes
 import logging
 
-openai.api_key = "your api key"
+openai.api_key = "your_api_key"
 
 engine = pyttsx3.init()
 hello_said = False
